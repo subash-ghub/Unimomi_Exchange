@@ -10,3 +10,6 @@ In this "Exchange Rate Calculator project, fetch API is used to make a Http requ
 
 ## IMAGES
 ![image](https://github.com/subash-ghub/Unimomi_Exchange/assets/104593776/d33de79b-6e98-4ae0-ab2c-d98245d31f15)
+
+## WORKING
+![image](https://github.com/subash-ghub/Unimomi_Exchange/assets/104593776/3200c895-4322-4e0b-b97f-c9cdc1ecf9ea)
